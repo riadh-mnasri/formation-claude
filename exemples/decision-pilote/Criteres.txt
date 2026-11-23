@@ -1,0 +1,4 @@
+Critères de décision du pilote, validés par l’équipe
+Budget maximum : 9 000 €.
+Délai maximum : 5 semaines après commande.
+Un export CSV est exigé avant signature. Vérifier le format sur un fichier d’essai.

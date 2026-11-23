@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "catalogue-livraison": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["mcp/catalogue.mjs"]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+.DS_Store
+.gradle/
+.kotlin/
+build/
+.env
+.env.*
+*.mp4
+*.mov
+*.wav
+*.m4a
+*.mp3

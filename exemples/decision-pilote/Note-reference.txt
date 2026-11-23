@@ -1,0 +1,5 @@
+NOTE DE DÉCISION, EXEMPLE DE RÉFÉRENCE
+Recommandation : retenir A pour le pilote, sous réserve de tester l’export CSV.
+A : 8 000 € et 4 semaines. Budget et délai dans les limites. Source : Pilote-A.txt et Criteres.txt.
+B : 10 500 € et 3 semaines. Budget dépassé de 1 500 €. Source : Pilote-B.txt et Criteres.txt.
+Vérification avant signature : obtenir un fichier d’essai et vérifier que l’export CSV est utilisable.

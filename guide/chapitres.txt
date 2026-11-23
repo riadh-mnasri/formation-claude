@@ -1,0 +1,11 @@
+00:00 Page de garde, agenda et présentation
+00:46 Écrire une demande et vérifier la réponse
+03:42 Modèles, contexte et usage
+07:09 Projets, mémoire et sources
+11:44 Artefacts, connecteurs et Cowork
+15:08 Claude Code, plan et permissions
+18:16 Diff, tests et reprise
+20:29 Skills, MCP, agents et workflows
+25:54 Exercice de frontière corrigé
+26:57 Visite GitHub | Terraform Change Review
+28:44 Conclusion et références officielles
