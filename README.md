@@ -20,7 +20,7 @@ Les exemples Java utilisent un modèle et des vecteurs de test. Le serveur MCP n
 | Correction Kotlin dans Claude Code | [Projet Gradle](exemples/livraison-kotlin), [commandes et prompts](guide/prompts-et-commandes.md#claude-code), [correctif](exemples/correction-livraison) | La livraison est offerte dès 50 €. Les tests couvrent 49,99 €, 50 € et 50,01 €. |
 | Cowork, skills, MCP et agent | [Notes de réunion](exemples/cowork), [skill](exemples/livraison-kotlin/.claude/skills/verifier-seuil/SKILL.md), [agent](exemples/livraison-kotlin/.claude/agents/relecteur-seuil.md), [guide](guide/prompts-et-commandes.md) | Ouvrir la source, contrôler la commande exécutée et relire le rapport. |
 
-Les [fiches](guide/fiches.md) reprennent les vingt notions, avec une définition, un geste concret, un exemple et un contrôle. Les [chapitres](guide/chapitres.txt), les [sous-titres français](guide/formation-fr.srt) et les [références officielles](guide/references.md) permettent de retrouver un passage.
+Le [parcours de 30 minutes](guide/claude-code-30-minutes.md) contient les repères de la vidéo Claude Code. Les [fiches](guide/fiches.md), les [chapitres](guide/chapitres.txt) et les [sous-titres français](guide/formation-fr.srt) de la formation précédente sur Claude web restent disponibles, ainsi que les [références officielles](guide/references.md).
 
 ## Tester le projet Kotlin
 
