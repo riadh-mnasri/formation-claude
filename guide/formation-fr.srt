@@ -2441,88 +2441,102 @@ changement décide après avoir lu la
 preuve et les limites.
 
 514
-00:28:44,017 --> 00:28:48,612
+00:28:44,017 --> 00:28:48,297
+Les demandes, les documents et le projet
+Kotlin sont accessibles dans le dépôt
+
+515
+00:28:48,297 --> 00:28:52,379
+public Formation Claude. Retrouvez son
+adresse à l’écran pour refaire les
+
+516
+00:28:52,379 --> 00:28:54,125
+exemples et vérifier les résultats.
+
+517
+00:28:54,125 --> 00:28:58,720
 Retenez trois gestes. D’abord, nommez le
 résultat que vous voulez obtenir.
 
-515
-00:28:48,612 --> 00:28:53,017
+518
+00:28:58,720 --> 00:29:03,125
 Une note qui justifie un choix ou un
 changement de code que l’on peut tester.
 
-516
-00:28:53,017 --> 00:28:57,254
+519
+00:29:03,125 --> 00:29:07,362
 Ensuite, indiquez les sources à consulter et
 l’action que Claude peut faire.
 
-517
-00:28:57,254 --> 00:28:59,017
+520
+00:29:07,362 --> 00:29:09,125
 Enfin, relisez une preuve.
 
-518
-00:28:59,017 --> 00:29:03,356
+521
+00:29:09,125 --> 00:29:13,464
 Le fichier qui donne le chiffre, le diff qui
 montre la ligne, ou le test qui
 
-519
-00:29:03,356 --> 00:29:05,017
+522
+00:29:13,464 --> 00:29:15,125
 confirme le comportement.
 
-520
-00:29:05,017 --> 00:29:08,571
+523
+00:29:15,125 --> 00:29:18,679
 Pour reprendre la formation, refaites une
 seule séquence avec une tâche que
 
-521
-00:29:08,571 --> 00:29:13,232
+524
+00:29:18,679 --> 00:29:23,339
 vous connaissez déjà. Vous reconnaîtrez le
 bon moment pour utiliser un Projet,
 
-522
-00:29:13,232 --> 00:29:15,017
+525
+00:29:23,339 --> 00:29:25,125
 un skill ou un agent.
 
-523
-00:29:15,017 --> 00:29:18,964
+526
+00:29:25,125 --> 00:29:29,072
 Pour retrouver les commandes et vérifier ce
 qui est proposé par votre version
 
-524
-00:29:18,964 --> 00:29:20,775
+527
+00:29:29,072 --> 00:29:30,883
 de Claude, voici les références officielles.
 
-525
-00:29:20,775 --> 00:29:24,255
+528
+00:29:30,883 --> 00:29:34,363
 Gardez cette page de références si vous
 voulez refaire les manipulations.
 
-526
-00:29:24,255 --> 00:29:29,455
+529
+00:29:34,363 --> 00:29:39,563
 Le centre d’aide Claude explique les
 Projets, la recherche web et Cowork.
 
-527
-00:29:29,455 --> 00:29:34,172
+530
+00:29:39,563 --> 00:29:44,280
 Dans la documentation Claude Code, ouvrez
 les pages sur le terminal, les
 
-528
-00:29:34,172 --> 00:29:35,935
+531
+00:29:44,280 --> 00:29:46,043
 permissions et les instructions du projet.
 
-529
-00:29:35,935 --> 00:29:41,055
+532
+00:29:46,043 --> 00:29:51,163
 Les dernières références couvrent les
 skills, M C P et les agents.
 
-530
-00:29:41,055 --> 00:29:42,735
+533
+00:29:51,163 --> 00:29:52,843
 Les adresses sont à l’écran.
 
-531
-00:29:42,735 --> 00:29:44,775
+534
+00:29:52,843 --> 00:29:54,883
 Merci d’avoir suivi la formation.
 
-532
-00:29:44,775 --> 00:29:46,452
+535
+00:29:54,883 --> 00:29:56,560
 Je suis Riadh Mnasri.

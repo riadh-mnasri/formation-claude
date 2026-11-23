@@ -2,7 +2,7 @@
 
 **Claude web et Claude Code, de la demande à la preuve.**
 
-Les fichiers de cette formation de **29 min 46** permettent de refaire deux démonstrations. Dans Claude web, vous comparez des offres et vous rédigez une note de décision sourcée. Dans Claude Code, vous préparez une correction Kotlin, relisez le diff et vérifiez trois tests de frontière.
+Les fichiers de cette formation de **29 min 57** permettent de refaire deux démonstrations. Dans Claude web, vous comparez des offres et vous rédigez une note de décision sourcée. Dans Claude Code, vous préparez une correction Kotlin, relisez le diff et vérifiez trois tests de frontière.
 
 ## Refaire les démonstrations
 

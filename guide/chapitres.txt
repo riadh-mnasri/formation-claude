@@ -7,5 +7,5 @@
 18:16 Diff, tests et reprise
 20:29 Skills, MCP, agents et workflows
 25:54 Exercice de frontière corrigé
-26:57 Visite GitHub | Terraform Change Review
-28:44 Conclusion et références officielles
+26:57 GitHub | Terraform Change Review et supports
+28:54 Conclusion et références officielles

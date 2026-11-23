@@ -9,6 +9,8 @@ java -jar build/libs/terraform-change-review.jar review \
 
 Sur le fichier synthétique montré, `TF-REPLACE` identifie l’instance `orders` et les actions `delete` puis `create`. Ce constat justifie les questions de sauvegarde, de séquence et de reprise. Une interruption ne peut pas être établie à partir du plan seul.
 
+[Extrait vérifié de la revue locale](../resultats/Terraform-extrait.md)
+
 Prompt de lecture du rapport.
 
 ```text
