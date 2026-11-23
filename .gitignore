@@ -9,3 +9,5 @@ build/
 *.wav
 *.m4a
 *.mp3
+target/
+classpath.txt

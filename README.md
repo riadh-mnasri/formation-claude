@@ -1,10 +1,18 @@
-# Formation Claude
+# Formation pratique Claude Code
 
-**Claude web et Claude Code, de la demande à la preuve.**
+**Du premier prompt à une application RAG · Riadh MNASRI**
 
-Les fichiers de cette formation de **29 min 57** permettent de refaire deux démonstrations. Dans Claude web, vous comparez des offres et vous rédigez une note de décision sourcée. Dans Claude Code, vous préparez une correction Kotlin, relisez le diff et vérifiez trois tests de frontière.
+Le [parcours de 30 minutes](guide/claude-code-30-minutes.md) suit un changement Kotlin, du ticket aux tests, puis montre comment retrouver une règle dans des documents et consulter un statut avec un outil MCP.
 
-## Refaire les démonstrations
+| Par où démarrer | Exemple à rejouer |
+| --- | --- |
+| **Claude Code** | [Livraison Kotlin](exemples/livraison-kotlin) · prompt, mode plan, CLAUDE.md, skill, MCP, revue et tests |
+| **Intégration Java** | [Atelier Spring AI et LangChain4j](exemples/rag-java) · RAG avec ou sans source applicable, puis lecture du statut d’une commande |
+| **Claude et les documents** | [Notes de réunion](exemples/cowork) · décisions, échéances et vérification des sources |
+
+Les exemples Java utilisent un modèle et des vecteurs de test. Le serveur MCP ne manipule que des commandes fictives. Les résultats sont reproductibles sans clé API.
+
+## Autres ressources et démonstrations
 
 | Démonstration | Ressources | Résultat à vérifier |
 | --- | --- | --- |

@@ -1,0 +1,3 @@
+Lecture MCP en local · données fictives
+DEMO-103 : expédiée
+DEMO-999 : commande inconnue

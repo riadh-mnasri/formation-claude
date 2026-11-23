@@ -88,7 +88,7 @@ Ouvrir .claude/agents/relecteur-seuil.md. Vérifier les outils, la mission et le
 
 
 ```sh
-claude --bg --agent relecteur-seuil --name livraison "Relis le diff de ShippingPolicy.kt. Vérifie les trois cas du seuil et rends un rapport avec preuves et contrôles manquants." --allowedTools "Bash(./gradlew :shipping:test)"
+claude --bg --agent relecteur-seuil --name livraison "Relis le diff de ShippingPolicy.kt. Vérifie les trois cas du seuil et rends un rapport avec preuves et contrôles manquants."
 claude agents
 claude logs livraison
 ```
